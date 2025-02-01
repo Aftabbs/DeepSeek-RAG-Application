@@ -1,0 +1,6 @@
+groq
+gradio
+sentence_transformers
+pdfplumber
+faiss-cpu
+python-dotenv
