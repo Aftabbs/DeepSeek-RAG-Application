@@ -2,7 +2,7 @@ import gradio as gr
 import pdfplumber 
 import faiss
 from sentence_transformers import SentenceTransformer    
-from groq import Groq        
+from groq import Groq         
 from dotenv import load_dotenv    
 import os         
    
